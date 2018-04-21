@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "165685440273",
+    "firebase_url": "https://swachhyaan-82c4e.firebaseio.com",
+    "project_id": "swachhyaan-82c4e",
+    "storage_bucket": "swachhyaan-82c4e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:165685440273:android:7ef9cb5a68197344",
+        "android_client_info": {
+          "package_name": "com.estimote.notification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "165685440273-f6s12egq427pgrbl7oe67qguk9pftrh1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBybywmtOcz9EgX0S00vK7EsVQUJWLTAVs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
